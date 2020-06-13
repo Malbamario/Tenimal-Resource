@@ -12,6 +12,9 @@
 		{"AnimalName":"Kucing Merah Kalimantan","LatinName":"Catopuma badia","Description":"nanti diisi","Habitat":"hutan rawa, hutan dataran rendah, hutan bukit","ByEating":"karnivora","ByBreedWay":"vivipar","ContentType":"indo","AnimalPhotoLink":"https:\/\/raw.githubusercontent.com\/Malbamario\/Tenimal-Resource\/master\/Animals%20Photo\/indo\/Slide%20Kucing%20Merah%20Kalimantan.png"}
 	],
 	"ContentTypesData":[
-		{"ContentType":"indo","ContentPhotoLink":"nanti sy isi"}
+		{"ContentType":"indo","ContentPhotoLink":"nanti sy isi"},
+		{"ContentType":"desert","ContentPhotoLink":"nanti sy isi"},
+		{"ContentType":"polar","ContentPhotoLink":"nanti sy isi"},
+		{"ContentType":"amazon","ContentPhotoLink":"nanti sy isi"}
 	]
 }
