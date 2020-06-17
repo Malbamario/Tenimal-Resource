@@ -1,5 +1,5 @@
 {
-	"AnimalData":[
+	"AnimalsData":[
 		{"AnimalName":"Beruk Mentawai (Bokoi)","LatinName":"Macaca pagensis","Description":"nanti diisi","Habitat":"hutan bakau \/ hutan pesisir","ByEating":"herbivora (frugivora, granivora, folivora)","ByBreedWay":"vivipar","ContentType":"indo","AnimalPhotoLink":"https:\/\/raw.githubusercontent.com\/Malbamario\/Tenimal-Resource\/master\/Animals%20Photo\/indo\/Slide%20Beruk%20Mentawai.png"},
 		{"AnimalName":"Komodo","LatinName":"Varanus komodoensis","Description":"nanti diisi","Habitat":"sabana,hutan belukar, dan pesisir","ByEating":"karnivora","ByBreedWay":"ovipar","ContentType":"indo","AnimalPhotoLink":"https:\/\/raw.githubusercontent.com\/Malbamario\/Tenimal-Resource\/master\/Animals%20Photo\/indo\/Slide%20Komodo.png"},
 		{"AnimalName":"Elang Flores","LatinName":"Spizaetus floris","Description":"nanti diisi","Habitat":"hutan hujan","ByEating":"karnivora","ByBreedWay":"ovipar","ContentType":"indo","AnimalPhotoLink":"https:\/\/raw.githubusercontent.com\/Malbamario\/Tenimal-Resource\/master\/Animals%20Photo\/indo\/Slide%20Elang%20Flores.png"},
