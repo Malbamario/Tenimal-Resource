@@ -44,9 +44,9 @@
 		{"AnimalName":"Uakari Botak","LatinName":"Cacajao calvus","Description":"nanti diisi","Habitat":"pepohonan","ByEating":"omnivora","ByBreedWay":"vivipar","ContentType":"amazon","AnimalPhotoLink":"https:\/\/raw.githubusercontent.com\/Malbamario\/Tenimal-Resource\/master\/Animals%20Photo\/amazon\/Slide%20Uakari%20Botak.png"}
 	],
 	"ContentTypesData":[
-		{"ContentType":"indo","ContentPhotoLink":"nanti sy isi"},
-		{"ContentType":"desert","ContentPhotoLink":"nanti sy isi"},
-		{"ContentType":"polar","ContentPhotoLink":"nanti sy isi"},
-		{"ContentType":"amazon","ContentPhotoLink":"nanti sy isi"}
+		{"ContentTitle":"10 Hewan Endemik Indonesia","ContentDescription":"nanti saya isi","ContentType":"indo","ContentPhotoLink":"nanti sy isi"},
+		{"ContentTitle":"10 Hewan di Padang Gurun","ContentDescription":"nanti sy isi","ContentType":"desert","ContentPhotoLink":"nanti sy isi"},
+		{"ContentTitle":"10 Hewan di Kutub Bumi","ContentDescription":"nanti sy isi","ContentType":"polar","ContentPhotoLink":"nanti sy isi"},
+		{"ContentTitle":"10 Hewan di Amazon","ContentDescription":"nanti sy isi","ContentType":"amazon","ContentPhotoLink":"nanti sy isi"}
 	]
 }
